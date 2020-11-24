@@ -1,4 +1,4 @@
-#include <Stepper.h>//Call the stepper.h library
+#include <Stepper.h>//Call the stepper.h library // test
 #include <Servo.h>//Call the servo.h library
 
 const int STEPS = 32;  // 32steps per revolution
